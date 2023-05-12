@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am an IT Programmer-Analyst Student and a Power System Engineer with experience in  high voltage tests in electrical equipment and materials and substations projects.
+My repositories here store my studies and projects (academics and personals) in different languages that I learned and that I continue to improve.
 <!--
 **BrLopes3/BrLopes3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
