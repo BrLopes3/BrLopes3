@@ -3,7 +3,8 @@ I am an IT Programmer-Analyst Student and a Power System Engineer with experienc
 My repositories here store my studies and projects (academics and personals) in different languages that I learned and that I continue to improve.
 <!--
 **BrLopes3/BrLopes3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## ⚡GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrLopes3&layout=compact)](https://github.com/BrLopes3/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
