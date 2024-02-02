@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am a Software Developer and a Power System Engineer with experience in  high voltage tests in electrical equipment and materials and substations projects.
-These repositories encapsulate a rich array of studies and projects, ranging from academic endeavors to personal initiatives. Proficient in multiple programming languages, I am committed to improve my skills and staying open to industry advancements.
+I'm a versatile professional with a background in both Software Development and Power System Engineering. I am always pursuing leveraging my skills to create innovative solutions and contribute to cutting-edge projects. 
+I am open to collaboration and eager to take on new challenges. Feel free to connect and explore the exciting intersection of software development and power systems engineering! 💡
 
 ## ⚡GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrLopes3&layout=compact)](https://github.com/BrLopes3/github-readme-stats)
